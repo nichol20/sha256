@@ -253,3 +253,4 @@ const input = initInput(messageInBinary)
 const finalHash = generateHash(input)
 
 console.log(finalHash)
+//256
